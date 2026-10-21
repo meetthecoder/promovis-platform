@@ -1,0 +1,15 @@
+{
+  "folders": [
+    { "path": "frontend", "name": "🟢 Frontend (Next.js)" },
+    { "path": "backend", "name": "🟡 Backend (Django)" }
+  ],
+  "settings": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[python]": {
+      "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "tailwindCSS.experimental.classRegex": [
+      ["clsx\\(([^)]*)\\)", "'([^']*)'"]
+    ]
+  }
+}
